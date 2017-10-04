@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Расписание ОмГТУ</string>
+
+    <string-array name="faculties">
+        <item>...</item>
+        <item>Гуманитарного образования</item>
+        <item>Заочного обучения</item>
+        <item>Информационных технологий и компьютерных систем</item>
+        <item>Машиностроительный</item>
+        <item>Нефтехимический</item>
+        <item>Отдел аспирантуры и докторантуры</item>
+        <item>Радиотехнический</item>
+        <item>Транспорта, нефти и газа</item>
+        <item>Учебно-методическое управление</item>
+        <item>Экономики и управления</item>
+        <item>Элитного образования и магистратуры</item>
+        <item>Энергетический</item>
+    </string-array>
+
+    <string-array name="abc">
+        <item>...</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+
+    <string-array name="abchex">
+        <item>...</item>
+        <item>C0</item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>CA</item>
+        <item>CB</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>CE</item>
+        <item>CF</item>
+        <item>D0</item>
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+        <item>D6</item>
+        <item>D7</item>
+        <item>D8</item>
+        <item>D9</item>
+        <item>DD</item>
+        <item>DE</item>
+        <item>DF</item>
+    </string-array>
+
+    <string-array name="bodies">
+        <item>...</item>
+        <item>БАЗОВАЯ КАФЕДРА 19</item>
+        <item>БАЗОВАЯ КАФЕДРА 24</item>
+        <item>БАЗОВАЯ КАФЕДРА 25</item>
+        <item>БАЗОВАЯ КАФЕДРА 53</item>
+        <item>ВИРТУАЛЬНОЕ</item>
+        <item>ВК</item>
+        <item>Г</item>
+        <item>ИППУ СО РАН</item>
+        <item>КТИТУ</item>
+        <item>НТК КРИОГЕН.ТЕХН</item>
+        <item>ОМКБ</item>
+        <item>ОМСКТРАНСМАШ</item>
+        <item>ОНПЗ</item>
+        <item>ПО ПОЛЁТ</item>
+        <item>ПУ-22</item>
+        <item>САТОРИ ПАРТНЁР</item>
+        <item>СУД-МЕД ЭКСПЕРТ ФГБУ СЭУ ППС</item>
+        <item>УЛК-1</item>
+        <item>УЛК-10</item>
+        <item>УЛК-11</item>
+        <item>УЛК-13</item>
+        <item>УЛК-14</item>
+        <item>УЛК-2</item>
+        <item>УЛК-3</item>
+        <item>УЛК-4</item>
+        <item>УЛК-5</item>
+        <item>УЛК-6</item>
+        <item>УЛК-7</item>
+        <item>УЛК-8</item>
+        <item>УЛК-8Б</item>
+        <item>УЛК-9</item>
+        <item>УЧЕБН.ЦЕНТР ГПС МСС</item>
+        <item>ФИЗК</item>
+        <item>ЦКБА</item>
+        <item>ЦПРП</item>
+    </string-array>
+
+    <string-array name="week">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string-array name="yearRus">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+</resources>

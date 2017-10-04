@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="comdeamond18.vk.timeline.Settings"
+    android:background="@drawable/about"
+    android:gravity="bottom">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:orientation="horizontal">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Нашли баг? Отпишитесь!"
+        android:id="@+id/vk"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button"
+        android:textColor="#ffffff"
+        android:layout_alignParentStart="true"
+        android:layout_weight="0.5"
+        android:textSize="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Сайт ОмГТУ"
+        android:id="@+id/omstu"
+        android:layout_alignBottom="@+id/vk"
+        android:layout_toEndOf="@+id/vk"
+        android:background="@drawable/button"
+        android:textColor="#ffffff"
+        android:layout_weight="0.5"
+        android:textSize="10dp" />
+    </LinearLayout>
+</RelativeLayout>

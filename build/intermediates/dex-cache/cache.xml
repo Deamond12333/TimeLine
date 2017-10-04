@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_759e6789b5665488bcabb12bedbaa5da8342f237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_b81f66bb96622f9af89c7211a826ef22e78ec1cf\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\classes-167d955b66cecdc1ebff28ca0c3211d285a109a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\3179b6d806324aa771853b40a84c523898ceb46d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_410f62cb3db0e455b44fa324edac0b0ead167a8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\d8659dcb515f72b217445311b7641e9970593520\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02421745bda51f4c6d507a94e514179dfbb5c1fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\20221fb55fd95b857d457955fc7f64e70c9eab27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2d77de0fd2c15b4b25f6dd019c649e0252859f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\2a27258d72d81844f729d423eac44487e14ecef9\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9b429c4729e7a74b97e1d53cae91e3a3cba1a523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\21c75fd305036ad4e9ed66c470c46bbd0d0c1382\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_28fca49ed41fc0a3171eb0c01233a8a2454826f9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-38edb6c4f3f948b554794801a808e19099e4f359.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-af65f9bf229f4e30dc3facfc1514e46576e2b9a5.jar" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\libs\htmlcleaner-2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f871fb88c9e78ac4d979fa9e13135e468b33259">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\htmlcleaner-2.9-7c8400f91420b6adc93824499446c730e3d6346a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\projects\Timeline\app\libs\json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-simple-1.1_ed155d12d36cc41513b9c7af194c6337317eadef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\projects\Timeline\app\libs\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\2\retrofit-2.3.0_a6fa62c67df84dfd60d03ef888021f7b2af22cda\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\classes-d9a8d8090f96db5b563c8ab54347a7c8b92b4f70.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\projects\Timeline\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c2fcb1fbcc20dc42fc919f1b4e72cd06af412118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\45558d8224a4f15cf0bd61d5fb5ccd66e0149c11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_627782afd43911a6a2589044ec279f1a07d371d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\8b6b125aac31f20b5dfdc39fa54622d11b9bba23\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f49c2cc4d54aa930ca49ee631e8a2851b75857b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\8b6b125aac31f20b5dfdc39fa54622d11b9bba23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0946470c62eee7102ecd590315c9396e17589d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\2a27258d72d81844f729d423eac44487e14ecef9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66e3423f46485eb044801d5006c63316763b9b17\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\classes-53c1dbd96dddb80fb3519db2757543e95f008761.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\9b1ae2317db1269284fcf3b2f0adeca91ca8124a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d89f03e8d78a87081d0b231ea4632d85b6605a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\bfea51fdf3fef7eba358672d20506f2366755af6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f70528b2edd16f2cbf3f4e49fd7181fd1878805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\9b1ae2317db1269284fcf3b2f0adeca91ca8124a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbb51c601c0a36adc3c64bd61ff924016a5ce768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\be0d7fd5e330c8f6072adcfca09a71c0a5c70530\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_591a366169040dea1d52708f2e65cf84ca54778f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\projects\Timeline\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="808229fb6e51354c1f5d9b8e42cbfaff06a2b3cf">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9e58cb43a7454397e9fd8f157ab19d41ca741a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\3179b6d806324aa771853b40a84c523898ceb46d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e5e6a386dab532750e27c9d9e880cf3e3f53077\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\libs\json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\json-simple-1.1-ed155d12d36cc41513b9c7af194c6337317eadef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Андрей\.android\build-cache\21c75fd305036ad4e9ed66c470c46bbd0d0c1382\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d1667e264be5c83d2522f07771a94e1e245f143\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\projects\Timeline\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\pre-dexed\debug\classes-f4442b88d246c7468e9cf6549ef01d8c3cac94c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\projects\Timeline\app\libs\htmlcleaner-2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f871fb88c9e78ac4d979fa9e13135e468b33259">
+        <dex dex="D:\Android\projects\Timeline\app\build\intermediates\transforms\dex\debug\folders\1000\2\htmlcleaner-2.9_7c8400f91420b6adc93824499446c730e3d6346a\classes.dex" />
+    </item>
+
+</items>
